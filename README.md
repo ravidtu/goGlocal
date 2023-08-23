@@ -32,9 +32,9 @@ Login to admin-> **127.0.0.1:8000/admin/**
 ```
 create new user 
 API Documentation :==
-```bash
+
 **https://documenter.getpostman.com/view/2964291/2s9Y5VUjEg**
-```
+
 
 The API endpoints will be available at
 ```bash
