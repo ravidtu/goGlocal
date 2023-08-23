@@ -27,15 +27,27 @@ Finally, run the development server:
 ```bash
 python manage.py runserver
 ```
+```bash
 Login to admin-> **127.0.0.1:8000/admin/**
+```
 create new user 
-API Documentation :==**https://documenter.getpostman.com/view/2964291/2s9Y5VUjEg**
+API Documentation :==
+```bash
+**https://documenter.getpostman.com/view/2964291/2s9Y5VUjEg**
+```
 
-The API endpoints will be available at **127.0.0.1:8000/api/user/login/**. With Post method
+The API endpoints will be available at
+```bash
+ **127.0.0.1:8000/api/user/login/**.
+ ```
+ 
+  With Post method
+  ```bash
 Payload:-
 {
     "username":"ravi@gmail.com",
     "password":"qwerty@123"
 }
+```
 Hit endpoints **127.0.0.1:8000//api/user/profile/** with GET method
 
